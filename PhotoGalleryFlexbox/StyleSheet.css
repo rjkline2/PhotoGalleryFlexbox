@@ -1,0 +1,11 @@
+﻿body {
+}
+.gallery {
+    display: flex;
+    min-height: 100vh;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+
+
+}
